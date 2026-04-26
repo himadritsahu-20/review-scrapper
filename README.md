@@ -10,8 +10,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PWskills-DataScienceTeam/myntra-review-scrapper.git
-   cd myntra-review-scraper
+   git clone https://github.com/himadritsahu-20/review-scrapper.git
+   cd review-scrapper
    ```
 
 2. Create a new conda environment and activate it
